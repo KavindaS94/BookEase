@@ -1,0 +1,42 @@
+# Flutter/Dart specific
+**/build/
+**/ios/Pods/
+**/android/.gradle/
+**/android/app/build/
+**/android/app/intermediates/
+**/android/gradle/
+**/android/gradlew
+**/android/local.properties
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/Debug.xcconfig
+**/ios/Flutter/Release.xcconfig
+**/ios/Flutter/Timestamp
+**/ios/Flutter/Generated.xcconfig
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+/build/
+
+# Android specific
+**/android/app/src/main/assets/flutter_assets/
+**/android/gradle.properties
+**/android/local.properties
+**/android/gradlew.bat
+**/android/gradle/wrapper/gradle-wrapper.jar
+**/android/gradle/wrapper/gradle-wrapper.properties
+
+# iOS specific
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/flutter_sdk.xcconfig
+**/ios/Podfile.lock
+**/ios/Runner.xcworkspace/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Visual Studio Code specific
+.vscode/
